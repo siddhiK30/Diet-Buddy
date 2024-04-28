@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="{% static 'Login/Login.css' %}">
+  <title>Signup Form | CodingLab</title>
+
+  <!-- Fontawesome CDN Link -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <div class="container">
+    <div class="forms">
+      <div class="form-content">
+        <div class="signup-form">
+          <div class="title">Signup</div>
+          <style>
+            h4{
+                color: red;
+              }
+            </style>
+          {% for message in messages %}
+          <h4>{{message}}</h4>
+          {%endfor%}
+          <form action="register" method="POST" >
+            {%csrf_token%}
+            <div class="input-boxes">
+              <div class="input-box">
+                <i class="fas fa-user"></i>
+                <input type="text" name ="username" placeholder="Enter your Username" required>
+              </div>
+              <div class="input-box">
+                <i class="fas fa-envelope"></i>
+                <input type="email" name= "email" placeholder="Enter your email" required>
+              </div>
+              <div class="input-box">
+                <i class="fas fa-lock"></i>
+                <input type="password" name="password" placeholder="Enter your password" required>
+              </div>
+              <div class="input-box">
+                <i class="fas fa-lock"></i>
+                <input type="password" name="password2" placeholder="Re-enter your password" required>
+              </div>
+              <div class="button input-box">
+                <input type="submit" value="Submit">
+              </div>
+              <div class="text sign-up-text">Already have an account? <a href="login">Login now</a></div>
+            </div>
+          </form>
+        </div>
+        <div class="back">
+            <img src="../static/Home/image.png" alt="Background Image">
+        </div>
+
+      </div>
+    </div>
+  </div>
+</body>
+</html>
