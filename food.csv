@@ -1,0 +1,264 @@
+Activity Level,Weight Goal,Meal Type,Meal Description,Calories,Allergy
+High,Lose,Breakfast,Avocado Toast with Poached Eggs,350,Egg
+High,Lose,Breakfast,Greek Yogurt with Berries and Granola,300,Dairy
+High,Lose,Breakfast,Spinach and Mushroom Omelette,400,Mushroom
+High,Lose,Breakfast,Whole Grain Pancakes with Maple Syrup,450,None
+High,Lose,Breakfast,Smoked Salmon Bagel with Cream Cheese,400,Fish
+High,Lose,Breakfast,Chia Seed Pudding with Almond Milk,250,Dairy
+High,Lose,Breakfast,Quinoa Breakfast Bowl with Fruit,350,None
+High,Lose,Breakfast,Green Smoothie with Protein Powder,300,None
+High,Lose,Breakfast,Egg White Veggie Scramble,300,Egg
+High,Lose,Breakfast,Banana Protein Pancakes,400,None
+High,Lose,Lunch,Grilled Chicken Salad with Quinoa,400,None
+High,Lose,Lunch,Turkey and Avocado Wrap,450,None
+High,Lose,Lunch,Salmon and Vegetable Stir-Fry,400,Fish
+High,Lose,Lunch,Black Bean and Corn Salad with Chicken,350,None
+High,Lose,Lunch,Spinach and Feta Stuffed Chicken Breast,400,None
+High,Lose,Lunch,Tuna Nicoise Salad,350,Fish
+High,Lose,Lunch,Quinoa and Vegetable Buddha Bowl,400,None
+High,Lose,Lunch,Veggie and Hummus Wrap,300,None
+High,Lose,Lunch,Shrimp and Mango Salad,350,Fish
+High,Lose,Lunch,Chicken Caesar Salad,400,None
+High,Lose,Dinner,Baked Salmon with Steamed Vegetables,450,Fish
+High,Lose,Dinner,Grilled Sirloin Steak with Roasted Potatoes,500,None
+High,Lose,Dinner,Spaghetti Squash with Turkey Bolognese,400,None
+High,Lose,Dinner,Lemon Herb Chicken with Brown Rice,450,None
+High,Lose,Dinner,Vegetarian Chili with Quinoa,350,None
+High,Lose,Dinner,Tofu Stir-Fry with Mixed Vegetables,400,None
+High,Lose,Dinner,Mushroom and Spinach Stuffed Bell Peppers,350,None
+High,Lose,Dinner,Grilled Vegetable and Goat Cheese Polenta,400,Dairy
+High,Lose,Dinner,Cauliflower Crust Pizza with Veggies,400,Dairy
+Moderate,Lose,Breakfast,Scrambled Egg Whites with Spinach and Tomatoes,300,Egg
+Moderate,Lose,Breakfast,Whole Wheat Toast with Peanut Butter,250,Wheat
+Moderate,Lose,Breakfast,Protein Smoothie with Berries and Almond Milk,350,None
+Moderate,Lose,Breakfast,Cottage Cheese with Pineapple and Walnuts,300,Dairy
+Moderate,Lose,Breakfast,Apple Cinnamon Overnight Oats,300,None
+Moderate,Lose,Breakfast,Greek Yogurt Parfait with Honey and Nuts,350,Dairy
+Moderate,Lose,Breakfast,Banana and Almond Butter Toast,300,Nuts 
+Moderate,Lose,Breakfast,Blueberry Banana Protein Pancakes,400,None
+Moderate,Lose,Breakfast,Quinoa Breakfast Bowl with Almond Butter,350,Nuts 
+Moderate,Lose,Breakfast,Avocado and Tomato Breakfast Sandwich,400,None
+Moderate,Lose,Lunch,Grilled Chicken Caesar Salad,400,None
+Moderate,Lose,Lunch,Turkey and Veggie Wrap,350,None
+Moderate,Lose,Lunch,Black Bean and Quinoa Salad,350,None
+Moderate,Lose,Lunch,Salmon and Asparagus Salad,400,Fish
+Moderate,Lose,Lunch,Tuna Salad Stuffed Avocado,350,Fish
+Moderate,Lose,Lunch,Chicken and Vegetable Stir-Fry with Brown Rice,400,None
+Moderate,Lose,Lunch,Quinoa and Black Bean Stuffed Peppers,350,None
+Moderate,Lose,Lunch,Shrimp and Avocado Salad,350,Fish
+Moderate,Lose,Lunch,Greek Couscous Salad with Feta,350,Dairy
+Moderate,Lose,Dinner,Baked Cod with Roasted Vegetables,400,Fish
+Moderate,Lose,Dinner,Grilled Turkey Burgers with Sweet Potato Fries,450,None
+Moderate,Lose,Dinner,Spaghetti Squash with Marinara Sauce,350,None
+Moderate,Lose,Dinner,Lemon Garlic Shrimp with Quinoa,400,Fish
+Moderate,Lose,Dinner,Stuffed Portobello Mushrooms with Spinach and Cheese,350,Mushroom
+Moderate,Lose,Dinner,Vegetarian Lentil Curry with Brown Rice,400,None
+Moderate,Lose,Dinner,Grilled Veggie Skewers with Tofu,350,None
+Moderate,Lose,Dinner,Cauliflower Fried Rice with Chicken,400,None
+Moderate,Lose,Dinner,Zucchini Noodles with Pesto and Cherry Tomatoes,350,None
+Low,Lose,Breakfast,Yogurt and Berry Smoothie Bowl,300,Dairy
+Low,Lose,Breakfast,Whole Grain Toast with Cottage Cheese,250,Dairy
+Low,Lose,Breakfast,Fruit Salad with Greek Yogurt,200,Dairy
+Low,Lose,Breakfast,Egg White Breakfast Burrito with Salsa,300,Egg
+Low,Lose,Breakfast,Banana and Almond Milk Smoothie,250,None
+Low,Lose,Breakfast,Chia Seed Pudding with Fresh Fruit,300,Dairy
+Low,Lose,Breakfast,Vegetable Omelette with Spinach and Peppers,300,None
+Low,Lose,Breakfast,Peanut Butter and Banana Sandwich,350,Nuts 
+Low,Lose,Breakfast,Steel Cut Oats with Berries and Almonds,300,Nuts 
+Low,Lose,Breakfast,Cottage Cheese Pancakes with Fruit,350,Dairy
+Low,Lose,Lunch,Grilled Vegetable Salad with Balsamic Vinaigrette,300,None
+Low,Lose,Lunch,Quinoa Salad with Cucumber and Tomato,300,None
+Low,Lose,Lunch,Chickpea Salad with Lemon Tahini Dressing,350,None
+Low,Lose,Lunch,Asian Tofu Salad with Ginger Soy Dressing,300,None
+Low,Lose,Lunch,Spinach and Strawberry Salad with Poppyseed Dressing,250,None
+Low,Lose,Lunch,Stuffed Bell Peppers with Ground Turkey,350,None
+Low,Lose,Lunch,Cauliflower Rice Stir-Fry with Tofu,300,None
+Low,Lose,Lunch,Black Bean and Corn Salad with Lime Vinaigrette,300,None
+Low,Lose,Dinner,Baked Chicken Breast with Steamed Broccoli,350,None
+Low,Lose,Dinner,Sautéed Shrimp with Garlic and Lemon,300,Fish
+Low,Lose,Dinner,Grilled Pork Tenderloin with Roasted Vegetables,400,None
+Low,Lose,Dinner,Vegetable Stir-Fry with Brown Rice,350,None
+Low,Lose,Dinner,Salmon Fillet with Asparagus,400,Fish
+Low,Lose,Dinner,Spaghetti Squash with Tomato Basil Sauce,300,None
+Low,Lose,Dinner,Tofu and Vegetable Curry with Quinoa,350,None
+Low,Lose,Dinner,Mushroom and Spinach Stuffed Chicken Breast,400,None
+Low,Lose,Dinner,Grilled Portobello Mushroom Burgers,350,None
+High,Gain,Breakfast,Omelette with Bacon Cheese and Avocado,500,Dairy
+High,Gain,Breakfast,Banana Nut Protein Shake,400,Nuts 
+High,Gain,Breakfast,Protein Pancakes with Nutella and Banana,600,None
+High,Gain,Breakfast,Scrambled Eggs with Sausage and Hash Browns,550,Egg
+High,Gain,Breakfast,Breakfast Burrito with Steak and Potatoes,600,None
+High,Gain,Breakfast,Fruit and Nut Oatmeal with Milk,450,Nuts 
+High,Gain,Breakfast,Blueberry Cream Cheese Stuffed French Toast,550,Dairy
+High,Gain,Breakfast,Bagel with Cream Cheese and Smoked Salmon,500,Dairy
+High,Gain,Breakfast,Peanut Butter Banana Sandwich with Honey,450,None
+High,Gain,Breakfast,Egg and Bacon Breakfast Sandwich,500,Egg
+High,Gain,Lunch,Beef and Bean Burrito with Rice and Cheese,600,Dairy
+High,Gain,Lunch,Chicken Alfredo Pasta with Garlic Bread,700,None
+High,Gain,Lunch,Turkey Club Sandwich with Fries,650,None
+High,Gain,Lunch,Meatball Sub with Marinara Sauce and Mozzarella,600,None
+High,Gain,Lunch,Beef Stir-Fry with Rice Noodles,700,None
+High,Gain,Lunch,Pulled Pork Sandwich with Coleslaw,650,None
+High,Gain,Lunch,Macaroni and Cheese with Bacon,600,Dairy
+High,Gain,Lunch,Loaded Baked Potato with Sour Cream and Chives,550,None
+High,Gain,Lunch,Beef and Vegetable Curry with Naan Bread,700,None
+High,Gain,Lunch,Chicken Quesadilla with Guacamole and Salsa,600,None
+High,Gain,Dinner,Steak with Mashed Potatoes and Gravy,750,None
+High,Gain,Dinner,BBQ Ribs with Cornbread and Baked Beans,800,None
+High,Gain,Dinner,Grilled Salmon with Rice Pilaf and Asparagus,700,Fish
+High,Gain,Dinner,Beef Lasagna with Garlic Bread and Caesar Salad,800,None
+High,Gain,Dinner,Chicken Parmesan with Spaghetti and Marinara Sauce,750,None
+High,Gain,Dinner,Beef Wellington with Roasted Vegetables,850,None
+High,Gain,Dinner,Shrimp Scampi with Linguine and Garlic Bread,700,None
+High,Gain,Dinner,Pork Chops with Apple Sauce and Roasted Potatoes,750,None
+High,Gain,Dinner,Lamb Tagine with Couscous and Grilled Vegetables,800,None
+Moderate,Gain,Breakfast,Banana Chocolate Chip Pancakes,450,None
+Moderate,Gain,Breakfast,Breakfast Burrito with Chorizo and Potatoes,500,None
+Moderate,Gain,Breakfast,Blueberry Cream Cheese French Toast Casserole,550,Dairy
+Moderate,Gain,Breakfast,Protein Waffles with Strawberries and Whipped Cream,500,Dairy
+Moderate,Gain,Breakfast,Bacon and Egg Breakfast Pizza,550,Egg
+Moderate,Gain,Breakfast,Peanut Butter Banana Smoothie Bowl,450,Nuts 
+Moderate,Gain,Breakfast,Breakfast Sandwich with Ham Egg and Cheese,500,Dairy
+Moderate,Gain,Breakfast,Chocolate Peanut Butter Protein Shake,400,Nuts 
+Moderate,Gain,Breakfast,Sausage and Cheese Croissant,550,Dairy
+Moderate,Gain,Breakfast,Avocado Breakfast Tacos with Bacon,500,None
+Moderate,Gain,Lunch,Buffalo Chicken Wrap with Ranch Dressing,600,None
+Moderate,Gain,Lunch,Beef Burger with Cheese and Bacon,700,None
+Moderate,Gain,Lunch,Philly Cheesesteak Sandwich with Onions and Peppers,650,Dairy
+Moderate,Gain,Lunch,Chicken Bacon Ranch Pizza,700,None
+Moderate,Gain,Lunch,Meat Lover's Calzone with Marinara Sauce,750,None
+Moderate,Gain,Lunch,Pulled Pork Sliders with BBQ Sauce,700,None
+Moderate,Gain,Lunch,Teriyaki Chicken Rice Bowl,650,None
+Moderate,Gain,Lunch,Grilled Cheese Sandwich with Tomato Soup,600,Dairy
+Moderate,Gain,Lunch,Beef and Bean Burrito Bowl with Guacamole,650,None
+Moderate,Gain,Lunch,Chicken Bacon Ranch Wrap,600,None
+Moderate,Gain,Dinner,Beef Stroganoff with Egg Noodles,700,Egg
+Moderate,Gain,Dinner,Honey Garlic Glazed Salmon with Rice and Broccoli,650,Fish
+Moderate,Gain,Dinner,Chicken Alfredo Stuffed Shells,750,None
+Moderate,Gain,Dinner,Steak Fajitas with Peppers and Onions,700,None
+Moderate,Gain,Dinner,Shrimp and Sausage Jambalaya,700,Fish
+Moderate,Gain,Dinner,Pork Tenderloin with Sweet Potato Mash and Green Beans,750,None
+Moderate,Gain,Dinner,Beef and Broccoli Stir-Fry with Rice,700,None
+Moderate,Gain,Dinner,Teriyaki Chicken with Pineapple Fried Rice,700,None
+Moderate,Gain,Dinner,Lamb Chops with Mint Sauce and Roasted Potatoes,800,None
+Low,Gain,Breakfast,Granola with Milk and Fresh Fruit,400,Milk 
+Low,Gain,Breakfast,Bagel with Cream Cheese and Jam,350,Dairy
+Low,Gain,Breakfast,Chocolate Chip Muffin with Butter,450,Dairy
+Low,Gain,Breakfast,Toast with Jam and Nutella,300,None
+Low,Gain,Breakfast,Chocolate Croissant,400,None
+Low,Gain,Breakfast,Yogurt Parfait with Honey and Granola,350,Dairy
+Low,Gain,Breakfast,Peanut Butter and Jelly Sandwich,400,None
+Low,Gain,Breakfast,Cinnamon Roll with Cream Cheese Frosting,450,Dairy
+Low,Gain,Breakfast,French Toast Sticks with Syrup,350,None
+Low,Gain,Breakfast,Pancakes with Chocolate Sauce,400,None
+Low,Gain,Lunch,Pasta Salad with Italian Dressing,450,None
+Low,Gain,Lunch,Ham and Cheese Sandwich with Chips,500,Dairy
+Low,Gain,Lunch,Pizza Bagels with Pepperoni and Cheese,550,Dairy
+Low,Gain,Lunch,Macaroni Salad with Tuna,450,Fish
+Low,Gain,Lunch,Chicken Nuggets with Ketchup and Fries,550,None
+Low,Gain,Lunch,Grilled Cheese and Tomato Soup,500,Dairy
+Low,Gain,Lunch,Tuna Melt with Chips,500,Fish
+Low,Gain,Lunch,Cheese Quesadilla with Salsa,450,Dairy
+Low,Gain,Lunch,Peanut Butter and Jelly Uncrustables,450,None
+Low,Gain,Dinner,Spaghetti and Meatballs with Garlic Bread,600,None
+Low,Gain,Dinner,Chicken Pot Pie with Mashed Potatoes,650,None
+Low,Gain,Dinner,Shepherd's Pie with Green Beans,600,None
+Low,Gain,Dinner,Beef Tacos with Rice and Beans,650,None
+Low,Gain,Dinner,Fish and Chips with Tartar Sauce,700,Fish
+Low,Gain,Dinner,Chicken and Rice Casserole,600,None
+Low,Gain,Dinner,Sausage and Pepperoni Pizza,700,Dairy
+Low,Gain,Dinner,Beef and Broccoli with Rice,650,None
+Low,Gain,Dinner,Vegetable Stir-Fry with Noodles,600,None
+Low,Gain,Dinner,Cheeseburger with Fries,700,Dairy
+High,Maintain,Breakfast,Scrambled Eggs with Toast and Fruit,400,Egg
+High,Maintain,Breakfast,Whole Wheat Pancakes with Maple Syrup,450,Wheat
+High,Maintain,Breakfast,Smoothie Bowl with Greek Yogurt and Granola,400,Dairy
+High,Maintain,Breakfast,Fruit and Nut Oatmeal with Milk,400,Nuts 
+High,Maintain,Breakfast,Bagel with Cream Cheese and Tomato,350,Dairy
+High,Maintain,Breakfast,Yogurt Parfait with Berries and Honey,350,Dairy
+High,Maintain,Breakfast,Avocado Toast with Poached Egg,400,Egg
+High,Maintain,Breakfast,Banana Nut Muffin with Butter,450,Dairy
+High,Maintain,Breakfast,French Toast with Berries and Whipped Cream,450,Dairy
+High,Maintain,Breakfast,Bacon and Egg Breakfast Burrito,500,Egg
+High,Maintain,Lunch,Chicken Caesar Salad with Whole Grain Roll,500,None
+High,Maintain,Lunch,Turkey and Cheese Sandwich with Chips,550,Dairy
+High,Maintain,Lunch,Greek Salad with Grilled Chicken,500,None
+High,Maintain,Lunch,Quinoa and Vegetable Stir-Fry,450,None
+High,Maintain,Lunch,Black Bean and Corn Salad with Avocado,400,None
+High,Maintain,Lunch,Spinach and Feta Stuffed Chicken Breast,450,None
+High,Maintain,Lunch,Tuna Salad Sandwich with Fruit,500,Fish
+High,Maintain,Lunch,Veggie Wrap with Hummus and Side Salad,450,None
+High,Maintain,Lunch,Grilled Shrimp Caesar Salad,500,Fish
+High,Maintain,Lunch,Chicken and Vegetable Soup with Whole Grain Bread,450,Wheat
+High,Maintain,Dinner,Baked Salmon with Quinoa and Steamed Broccoli,550,Fish
+High,Maintain,Dinner,Grilled Sirloin Steak with Sweet Potato Mash and Green Beans,600,None
+High,Maintain,Dinner,Spaghetti Squash with Tomato Basil Sauce,450,None
+High,Maintain,Dinner,Lemon Herb Chicken with Brown Rice and Asparagus,500,None
+High,Maintain,Dinner,Stuffed Bell Peppers with Ground Turkey and Quinoa,450,None
+High,Maintain,Dinner,Vegetarian Stir-Fry with Tofu and Brown Rice,500,None
+High,Maintain,Dinner,Baked Cod with Roasted Potatoes and Green Beans,550,None
+High,Maintain,Dinner,Grilled Vegetable and Goat Cheese Polenta,500,Dairy
+High,Maintain,Dinner,Chickpea and Vegetable Curry with Naan Bread,500,None
+High,Maintain,Dinner,Cauliflower Crust Pizza with Veggie Toppings,500,None
+Moderate,Maintain,Breakfast,Greek Yogurt with Honey and Nuts,300,Dairy
+Moderate,Maintain,Breakfast,Tea,150,None
+Moderate,Maintain,Breakfast,Whole Grain Toast with Peanut Butter,250,Nuts 
+Moderate,Maintain,Breakfast,Oatmeal with Banana and Almonds,300,Nuts 
+Moderate,Maintain,Breakfast,Scrambled Eggs with Spinach and Tomato,350,Egg
+Moderate,Maintain,Breakfast,Fruit Smoothie with Protein Powder,300,None
+Moderate,Maintain,Breakfast,Cottage Cheese with Pineapple and Walnuts,300,Dairy
+Moderate,Maintain,Breakfast,Banana and Almond Butter Toast,300,Nuts 
+Moderate,Maintain,Breakfast,Berry and Spinach Smoothie Bowl,350,None
+Moderate,Maintain,Breakfast,Avocado Breakfast Sandwich,400,None
+Moderate,Maintain,Breakfast,Blueberry Protein Pancakes with Maple Syrup,400,None
+Moderate,Maintain,Lunch,Grilled Chicken Salad with Balsamic Vinaigrette,400,None
+Moderate,Maintain,Lunch,Turkey and Avocado Wrap with Side Salad,450,None
+Moderate,Maintain,Lunch,Quinoa Salad with Cucumber and Tomato,400,None
+Moderate,Maintain,Lunch,Tuna Salad Stuffed Bell Peppers,350,Fish
+Moderate,Maintain,Lunch,Chicken and Vegetable Stir-Fry with Brown Rice,400,None
+Moderate,Maintain,Lunch,Black Bean and Corn Salad with Lime Vinaigrette,350,None
+Moderate,Maintain,Lunch,Veggie and Hummus Wrap with Carrot Sticks,350,None
+Moderate,Maintain,Lunch,Salmon and Asparagus Quinoa Bowl,400,Fish
+Moderate,Maintain,Lunch,Spinach and Feta Stuffed Portobello Mushrooms,350,None
+Moderate,Maintain,Lunch,Greek Couscous Salad with Feta Cheese,350,Dairy
+Moderate,Maintain,Dinner,Baked Chicken Breast with Sweet Potato and Green Beans,450,None
+Moderate,Maintain,Dinner,Grilled Salmon with Quinoa and Steamed Broccoli,500,Fish
+Moderate,Maintain,Dinner,Turkey Meatballs with Whole Wheat Pasta and Marinara Sauce,450,Wheat
+Moderate,Maintain,Dinner,Stir-Fried Tofu with Vegetables and Brown Rice,400,None
+Moderate,Maintain,Dinner,Shrimp and Vegetable Stir-Fry with Quinoa,450,Fish
+Moderate,Maintain,Dinner,Vegetarian Chili with Cornbread Muffins,400,None
+Moderate,Maintain,Dinner,Cauliflower Fried Rice with Mixed Vegetables,400,None
+Moderate,Maintain,Dinner,Stuffed Bell Peppers with Quinoa and Black Beans,450,None
+Moderate,Maintain,Dinner,Tofu and Vegetable Curry with Basmati Rice,400,None
+Moderate,Maintain,Dinner,Greek-style Stuffed Zucchini Boats,400,None
+Low,Maintain,Breakfast,Whole Wheat Toast with Avocado and Tomato,300,Wheat
+Low,Maintain,Breakfast,Tea,150,None
+Low,Maintain,Breakfast,Yogurt with Granola and Fresh Fruit,350,Dairy
+Low,Maintain,Breakfast,Omelette with Mushrooms and Spinach,350,Mushroom
+Low,Maintain,Breakfast,Chia Seed Pudding with Almond Milk and Berries,300,Dairy
+Low,Maintain,Breakfast,Peanut Butter Banana Smoothie,350,Nuts 
+Low,Maintain,Breakfast,Scrambled Egg Whites with Salsa and Whole Wheat Toast,300,Egg
+Low,Maintain,Breakfast,Quinoa Breakfast Bowl with Almond Butter and Banana,350,Nuts 
+Low,Maintain,Breakfast,Smoothie with Spinach Mango and Almond Milk,300,None
+Low,Maintain,Breakfast,Cottage Cheese Pancakes with Fruit Compote,350,Dairy
+Low,Maintain,Breakfast,Banana Nut Oatmeal with Almond Milk,350,Nuts 
+Low,Maintain,Lunch,Grilled Chicken Caesar Salad with Whole Grain Croutons,450,None
+Low,Maintain,Lunch,Turkey and Veggie Wrap with Greek Yogurt Dip,400,Dairy
+Low,Maintain,Lunch,Black Bean and Quinoa Stuffed Peppers,400,None
+Low,Maintain,Lunch,Salmon Salad with Mixed Greens and Balsamic Vinaigrette,450,Fish
+Low,Maintain,Lunch,Tuna Salad Lettuce Wraps with Tomato and Cucumber,400,Fish
+Low,Maintain,Lunch,Quinoa and Chickpea Salad with Lemon Tahini Dressing,400,None
+Low,Maintain,Lunch,Asian Tofu Salad with Sesame Ginger Dressing,400,None
+Low,Maintain,Lunch,Spinach and Strawberry Salad with Balsamic Glaze,350,None
+Low,Maintain,Lunch,Stuffed Bell Peppers with Lentils and Brown Rice,400,None
+Low,Maintain,Lunch,Cauliflower Rice Stir-Fry with Tofu and Veggies,350,None
+Low,Maintain,Dinner,Baked Chicken Thighs with Roasted Vegetables,450,None
+Low,Maintain,Dinner,Grilled Tilapia with Quinoa Pilaf and Steamed Broccoli,500,Fish
+Low,Maintain,Dinner,Spaghetti Squash with Tomato Sauce and Parmesan,400,Dairy
+Low,Maintain,Dinner,Herb Crusted Salmon with Garlic Mashed Potatoes,500,Fish
+Low,Maintain,Dinner,Vegetarian Stuffed Bell Peppers with Rice and Beans,400,None
+Low,Maintain,Dinner,Tofu Stir-Fry with Broccoli and Brown Rice,400,None
+Low,Maintain,Dinner,Cauliflower Crust Pizza with Chicken and Pesto,450,None
+Low,Maintain,Dinner,Stir-Fried Shrimp with Vegetables and Quinoa,450,Fish
+Low,Maintain,Dinner,Mushroom and Spinach Risotto with Parmesan,450,Dairy
+Low,Maintain,Dinner,Vegetable Curry with Coconut Milk and Basmati Rice,400,None
