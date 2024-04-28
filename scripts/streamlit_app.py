@@ -56,11 +56,11 @@ def main():
 
     # Calculate BMI
     bmi = calc_bmi(weight, height)
-    st.write(f"*Your BMI:* {bmi:.2f}")
+    st.write(f"<br><h5>Your BMI: {bmi:.2f}</h5>", unsafe_allow_html=True)
         
     # Water intake calculation
     water_intake = calc_water_intake(activity_level, weight)
-    st.write(f"*Recommended Daily Water Intake:* {water_intake/1000:.2f} liters")
+    st.write(f"<h5>Recommended Daily Water Intake: {water_intake/1000:.2f} liters</h5>", unsafe_allow_html=True)
 
     # Allergy Input
     allergies = st.text_input("List any food allergies (comma-separated), or leave blank if none:")
@@ -86,14 +86,29 @@ def main():
 
     # Include dietary preferences
     tea_preference = st.checkbox("Include a cup of tea in the meal plan")
-    fruit_preference = st.text_input("Specify a fruit to include in the meal plan (e.g., mango):")
+    fruit_preference = st.text_input("Specify a fruit to include in the meal plan (e.g., Mango):")
 
-    if tea_preference:
-        # Add calories for a cup of tea
-        tea_calories = 50  # Adjust calorie count as needed
-        st.write("A cup of tea will be included in the meal plan.")
-        # Add tea calories to the total calorie intake
-        # total_calories += tea_calories
+  # Define calorie values for common fruits
+    fruit_calories = {
+        "Apple": 52,
+        "Banana": 89,
+        "Orange": 62,
+        "Grapes": 69,
+        "Strawberries": 32,
+        "Mango": 60,
+        "Pineapple": 50,
+        "Watermelon": 30,
+        "Peach": 59,
+        "Pear": 57
+    }
+
+    fruit_calorie = 0
+    if fruit_preference:
+        # Add calorie count for selected fruit
+        if fruit_preference in fruit_calories:
+            fruit_calorie = fruit_calories[fruit_preference]
+            st.write(f"{fruit_preference.capitalize()} (Calories: {fruit_calorie}) will be included in the meal plan.")
+
 
     # Generate diet plan
     st.subheader("Recommended Food Items:")
@@ -102,7 +117,13 @@ def main():
     st.write("*Breakfast:*")
     
     breakfast_table = breakfast_items[["Meal Description", "Calories"]].reset_index(drop=True)
-    breakfast_table.loc[len(breakfast_table.index)] = ['Cup of tea', 200] 
+    if tea_preference:
+        # Add calories for a cup of tea
+        # tea_calories = 50  # Adjust calorie count as needed
+        breakfast_table.loc[len(breakfast_table.index)] = ['Cup of tea', 150] 
+        st.write("A cup of tea will be included in the meal plan.")
+        # Add tea calories to the total calorie intake
+        # total_calories += tea_calories
     breakfast_table.index += 1  # Start index from 1
     st.table(breakfast_table)
     
@@ -118,9 +139,9 @@ def main():
 
     # Calculate total calorie intake for all meals
     total_calories = breakfast_items["Calories"].sum() + lunch_items["Calories"].sum() + dinner_items["Calories"].sum()
-    st.write("*Total Calorie Intake for the Day:*", total_calories)
+    st.write("*Total Calorie Intake for the Day:*", total_calories+fruit_calorie)
 
-    Repeat=st.checkbox("Repeat")
+    Repeat=st.checkbox("Regenerate")
     if Repeat=='True':
         main()
     
@@ -135,8 +156,6 @@ def main():
     # if Repeat=='True':
     #     main()
 
-    if fruit_preference:
-        st.write(f"{fruit_preference.capitalize()} will be included in the meal plan.")
 
 
 if __name__ == "__main__":
