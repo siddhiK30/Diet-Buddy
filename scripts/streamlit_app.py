@@ -3,8 +3,8 @@ import pandas as pd
 import random
 
 # Load the datasets
-df = pd.read_csv("food.csv")  # Replace "input.csv" with the actual path to your dataset
-substitute_df = pd.read_csv("food_substitutes.csv")  # Load the food substitutes dataset
+df = pd.read_csv("food.csv")  
+substitute_df = pd.read_csv("food_substitutes.csv")
 
 # Function to calculate BMI
 def calc_bmi(weight, height):
